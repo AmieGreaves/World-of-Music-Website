@@ -1,0 +1,62 @@
+.body {
+    background-color: #E5E7E9;
+}
+
+.entireJumbotron {
+    display: block;
+    margin: auto;
+    height: 100%;
+    width: 70%;
+    padding: 30px;
+    background-color: #ffffff;
+}
+
+.navbarContent {
+    color: #ffffff;
+}
+
+.homepageImage {
+    max-width: 100%;
+}
+
+a:link {
+    color: #000000;
+}
+
+a:visited {
+    color: #4c4c4c;
+}
+
+a:hover {
+    color: #000000;
+}
+
+#celticHeader {
+    height: 350px;
+    width: 100%;
+}
+
+.contactJumbotron {
+    display: block;
+    margin: auto;
+    height: 100%;
+    width: 60%;
+    padding: 30px;
+    background-color: #F1F4F6;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.tableDiv {
+    background-color: #F1F4F6;
+}
+
+.even {
+    padding: 10px;
+}
